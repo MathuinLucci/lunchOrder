@@ -1,0 +1,17 @@
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.exe
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.deps.json
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.runtimeconfig.json
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.dll
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\bin\Debug\net7.0-windows\LunchOrder.pdb
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.Form1.resources
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.csproj.GenerateResource.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.AssemblyInfoInputs.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.AssemblyInfo.cs
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.sourcelink.json
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.dll
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\refint\LunchOrder.dll
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.pdb
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\LunchOrder.genruntimeconfig.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\Review Exercises\ch10\LunchOrder\LunchOrder\obj\Debug\net7.0-windows\ref\LunchOrder.dll
